@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "285726468933",
+    "project_id": "mediminder-e9d76",
+    "storage_bucket": "mediminder-e9d76.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:285726468933:android:e9b3866078dd0c86472c2c",
+        "android_client_info": {
+          "package_name": "com.example.mediminder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "285726468933-cvsskai801d4lk7p3qihg1igc7rgi34s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mediminder",
+            "certificate_hash": "0ebdb4a8f789f22e294f890e8901ab25691f77bf"
+          }
+        },
+        {
+          "client_id": "285726468933-8d4kf8p1dnmb0icjhga8c5dpaob2jthm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQzfhmOKu9K6b09aoIz6qqSqb9vhNUeKA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "285726468933-8d4kf8p1dnmb0icjhga8c5dpaob2jthm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.MediMinder" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here -->
+        <item name="colorPrimary">#5F71DB</item>
+        <item name="colorPrimaryDark">#5F71DB</item>
+        <item name="colorAccent">#6200EE</item>
+    </style>
+</resources>

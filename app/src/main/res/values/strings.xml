@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">MediMinder</string>
+    <string name="default_web_client_id">285726468933-8d4kf8p1dnmb0icjhga8c5dpaob2jthm.apps.googleusercontent.com</string>
 </resources>
